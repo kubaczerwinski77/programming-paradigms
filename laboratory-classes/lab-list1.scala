@@ -37,6 +37,3 @@ insert(List(1, 2, 3, 4), 5, 0)
 insert(List(1, 2, 3, 4), 5, 1)
 insert(List(1, 2, 3, 4), 5, 2)
 insert(List(1, 2, 3, 4), 5, 3)
-
-insert(List(1, 2, 3, 4), 5, 4)
-insert(List(1, 2, 3, 4), 5, 5)
