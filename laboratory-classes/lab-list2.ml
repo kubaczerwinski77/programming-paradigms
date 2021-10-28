@@ -10,9 +10,11 @@ let rec find xs x =
 find [1; 2] 3;;
 find [1; 2] 1;;
 find [] 5;;
+
 let find123 = find [1; 2; 3];;
 find123 3;;
 find123 5;;
+
 let findabc = find ['a'; 'b'; 'c'];;
 findabc 'a';;
 findabc 'x';;
